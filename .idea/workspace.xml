@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe91874f-bac7-44f7-9622-c10429dd2d73" name="Changes" comment="third commit" />
+    <list default="true" id="fe91874f-bac7-44f7-9622-c10429dd2d73" name="Changes" comment="Adding data">
+      <change afterPath="$PROJECT_DIR$/data/images/train/0000002_00005_d_0000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/train/hellp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/val/0000002_00005_d_0000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/labels/train/0000002_00005_d_0000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/labels/val/0000002_00005_d_0000014.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,15 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/harshavardhansasikumar/PycharmProjects/JupyterProject/YOLO/data/labels/val"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,13 +111,22 @@
       <option name="project" value="LOCAL" />
       <updated>1759599529542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding data">
+      <option name="closed" value="true" />
+      <created>1759599649319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759599649319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="Adding data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding data" />
   </component>
 </project>
